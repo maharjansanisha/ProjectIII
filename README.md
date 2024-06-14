@@ -56,6 +56,28 @@ The objective of this course is to make students able to design and develop soft
 - Teamwork and Contribution
 
 ## Prescribed content flow for the Project Proposal
+
+1. Introduction 
+2. Problem Statement 
+3. Objectives
+4. Methodology 
+    - Requirement Identiifcation 
+        - Study of Existing System 
+        - Literature Review 
+        - Requirement Analysis 
+    - Feasibilty Study 
+        - Technical 
+        - Operational 
+        - Economic 
+    - High Level Design of System 
+        - Methodology of the proposed system
+        - Flow Chart 
+        - Working Mechanism of Proposed System
+        - Description of Algorithms
+5. Gantt Chart
+6. Expected Outcomes 
+7. References
+
 ## Prescribed content flow for the Project Report
 1. Cover & Title Page 
 2. Certificate Page
