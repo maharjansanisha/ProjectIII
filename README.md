@@ -54,3 +54,21 @@ The objective of this course is to make students able to design and develop soft
 - Viva Question Answer
 - Level of Work and Understanding
 - Teamwork and Contribution
+
+## Prescribed content flow for the Project Proposal
+## Prescribed content flow for the Project Report
+1. Cover & Title Page 
+2. Certificate Page
+    - Supervisor Recommendation 
+    - Internal and External Examiners' Approval Letter
+3. Supervisor Recommendation 
+4. Internal and External Examiners' Approval Letter
+3. Acknowledgement 
+4. Abstract Page
+5. Table of Contents
+6. List of Figures, List of Tables, List of Abbreviations 
+7. Main Report 
+8. References 
+9. Bibliography (if any)  
+10. Appendices (Screen Shots/ Source Codes)
+
