@@ -4,7 +4,7 @@ Course Code: **CACS452**
 ## Course Description
 The final year project is a practical course where students are expected to implement the concepts learnt during four years of their study so as to build a system. The course includes realization of project management, software development, and programming skills.
 
-### Course objectives
+## Course Objective
 The objective of this course is to make students able to design and develop software applications by following appropriate development methodology 
 
 ## Nature of Project 
